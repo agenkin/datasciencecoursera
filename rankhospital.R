@@ -1,6 +1,8 @@
 
 TEST, TEST, TEST
 
+TEST2
+
 rankhospital <- function(state, outcome, num = "best") {
 
 ## Read outcome data
